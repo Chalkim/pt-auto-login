@@ -45,14 +45,14 @@ config.json
             "url": "https://url/of/pt/site",
             "method": "get",
             "headers": {
-                "Cookie": "your cookie"
+                "Cookie": "your cookie here"
             }
         },
         {
             "url": "https://url/of/pt/site",
             "method": "post",
             "headers": {
-                "Cookie": "your cookie"
+                "Cookie": "your cookie here"
             },
             "data": "action=sign_in"
         }
